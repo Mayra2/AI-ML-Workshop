@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Koliko dug treba biti CV studentice?",
+    "expected_answer": "Jednu stranicu.",
+    "source": "pisanje_cv.md"
+  },
+  {
+    "question": "U kojem formatu poslati CV?",
+    "expected_answer": "PDF.",
+    "source": "pisanje_cv.md"
+  },
+  {
+    "question": "Šta znači STAR?",
+    "expected_answer": "Situacija, zadatak, akcija, rezultat.",
+    "source": "razgovor_za_posao.md"
+  },
+  {
+    "question": "Kada poslati zahvalnicu nakon intervjua?",
+    "expected_answer": "U roku od 24 sata.",
+    "source": "razgovor_za_posao.md"
+  },
+  {
+    "question": "Koliko urednih projekata je dobro imati na GitHubu?",
+    "expected_answer": "Tri do pet.",
+    "source": "github_profil.md"
+  },
+  {
+    "question": "Šta treba sadržavati README projekta?",
+    "expected_answer": "Šta projekat radi, kako se pokreće i koje tehnologije koristi; snimak ekrana ili primjer rezultata.",
+    "source": "github_profil.md"
+  },
+  {
+    "question": "Šta napisati u LinkedIn About?",
+    "expected_answer": "Tri do pet rečenica o studiju, interesovanjima i prilici koju tražite.",
+    "source": "linkedin_profil.md"
+  },
+  {
+    "question": "Kako se zove završni događaj i kada se dijele ruksaci?",
+    "expected_answer": "AI Challenge; nakon proglašenja pobjednica.",
+    "source": "girlthing_ai_lab.md"
+  },
+  {
+    "question": "Koja je najbolja pizzerija u Tuzli?",
+    "expected_answer": "Nemam tu informaciju u svojoj bazi znanja.",
+    "source": null
+  },
+  {
+    "question": "Koji je tačan datum AI Challengea?",
+    "expected_answer": "Nemam tu informaciju u svojoj bazi znanja.",
+    "source": null
+  }
+]
